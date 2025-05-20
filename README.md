@@ -1,6 +1,16 @@
 # Accessing Pharos Data with Your AI Assistant
 
-This guide explains how to connect your AI assistant (like Claude) to the Pharos database, a rich resource for information on proteins (targets), diseases, and chemical compounds (ligands). This connection lets your AI directly query Pharos to answer your research questions.
+## License and Citation
+
+This project is available under the MIT License with an Academic Citation Requirement. This means you can freely use, modify, and distribute the code, but any academic or scientific publication that uses this software must provide appropriate attribution.
+
+### For academic/research use:
+If you use this software in a research project that leads to a publication, presentation, or report, you **must** cite this work according to the format provided in [CITATION.md](CITATION.md).
+
+### For commercial/non-academic use:
+Commercial and non-academic use follows the standard MIT License terms without the citation requirement.
+
+By using this software, you agree to these terms. See [LICENSE.md](LICENSE.md) for the complete license text.This guide explains how to connect your AI assistant (like Claude) to the Pharos database, a rich resource for information on proteins (targets), diseases, and chemical compounds (ligands). This connection lets your AI directly query Pharos to answer your research questions.
 
 ## What is Pharos?
 
