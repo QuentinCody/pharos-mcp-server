@@ -1,5 +1,5 @@
 /**
- * For more details on how to configure Wrangler, refer to:
+ * Pharos MCP Server — Cloudflare Workers configuration
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */
 {
