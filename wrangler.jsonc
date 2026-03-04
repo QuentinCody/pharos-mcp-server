@@ -9,17 +9,13 @@
 	"compatibility_date": "2025-03-10",
 	"compatibility_flags": ["nodejs_compat"],
 	"migrations": [
-		{
-			"new_sqlite_classes": ["MyMCP"],
-			"tag": "v1"
-		}
+		{ "new_sqlite_classes": ["MyMCP"], "tag": "v1" },
+		{ "new_sqlite_classes": ["PharosDataDO"], "tag": "v2" }
 	],
 	"durable_objects": {
 		"bindings": [
-			{
-				"class_name": "MyMCP",
-				"name": "MCP_OBJECT"
-			}
+			{ "class_name": "MyMCP", "name": "MCP_OBJECT" },
+			{ "class_name": "PharosDataDO", "name": "PHAROS_DATA_DO" }
 		]
 	},
 	"alias": {
